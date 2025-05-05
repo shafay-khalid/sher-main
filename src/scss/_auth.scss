@@ -1,0 +1,9 @@
+.auth {
+    background: $primary;
+    background: -webkit-linear-gradient(to right, $primary, #243B55);
+    background: linear-gradient(to right, $primary, #243B55);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
